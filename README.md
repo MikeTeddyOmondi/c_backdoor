@@ -7,6 +7,13 @@ It contains:
 2. backdoor.c - which is the malware itself that will be executed on the target machine for gaining access and exploits. Runs only on Windows environment.
 3. keylogger.h - is a header file that contains code that allows for logging keystrokes to a *.txt file.
 
+Prerequisites:
+---
+- Install GCC Compiler for C/C++ [MingW(gcc-mingw-w64-i686)] on Linux so that you can compile the Windows executable for backdoor.c 
+```bash
+sudo apt-get install gcc-mingw-w64-i686 
+```
+
 # DISCLAIMER:
 _Use with caution._ \
 _Hack for fun not for profit._ \
