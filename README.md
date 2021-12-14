@@ -9,5 +9,5 @@ It contains:
 
 # DISCLAIMER:
 _Use with caution._ \
-_Hack for fun not for profit._
+_Hack for fun not for profit._ \
 **HACKING IS ILLEGAL!!!**
